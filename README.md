@@ -37,7 +37,8 @@ Model accuracy is calculated using accuracy_score.
 A detailed classification report (precision, recall, F1-score) is generated.
 A confusion matrix is visualized using a heatmap to show classification performance across species.
 
-# Visualization: A confusion matrix heatmap is plotted using seaborn and matplotlib.
+# Visualization: 
+A confusion matrix heatmap is plotted using seaborn and matplotlib.
 
 # Results
 Accuracy: The model achieves an accuracy of approximately 96.67% on the test set.
